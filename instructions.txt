@@ -1,0 +1,9 @@
+This script just converts images to video
+
+# Steps to use the script
+1. Add any size image to the 'input' folder
+2. Run the script using vs code or any python idle
+3. Open the output folder to see your videos
+
+# requirement:
+- ffmpeg-python
